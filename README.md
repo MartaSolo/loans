@@ -19,4 +19,4 @@ HMTL5, CSS3
 
 ## View Demo:
 
-https://loans-martasolo.netlify.app/
+https://loans-ms.netlify.app/
