@@ -3,7 +3,7 @@
 ## Project description:
 
 Loans is a landing page of a company offering loans.
-The main goual of doing the project was to practise positioning, especially by using flex.
+The main goal of doing the project was to practise positioning, especially by using flex.
 
 ![Loans](https://github.com/MartaSolo/loans/blob/main/layout-plan.jpg)
 
